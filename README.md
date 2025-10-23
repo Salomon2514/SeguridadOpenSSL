@@ -17,8 +17,10 @@ OpenSSL se utiliza ampliamente en el campo de la ciberseguridad para una amplia 
 
 ### Configuración
 1. Instalar en la raíz C.(Evitar espacios en blanco)
-2. Bajar la Versión Exe.
-3. En algunos ejemlos deben asegurarse de establecer la ruta dónde instalarón el OpenSSL --> openssl.cnf (Ubicación de OpenSSL en su PC)
+2. La versión de Xampp tenga habilitada la extensión de extension=openssl
+   El php.ini deben abrirlo con WordPad o Bloc de Notas y buscar la línea ;extension=openssl --> si tiene ";" eliminarlo y bajar los servicios y luego levantarlos  
+3. Bajar la Versión Exe.
+4. En algunos ejemlos deben asegurarse de establecer la ruta dónde instalarón el OpenSSL --> openssl.cnf (Ubicación de OpenSSL en su PC)
 Ejemplo:
 
 ```bash
