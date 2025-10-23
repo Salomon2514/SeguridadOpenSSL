@@ -1,5 +1,5 @@
 
-## Seguridad con OpenSSL en PHP
+## ![Seguridad](https://img.shields.io/badge/Código-Seguro-green?style=flat&logo=github&logoColor=white) Seguridad con OpenSSL en PHP
 OpenSSL es una biblioteca criptográfica que permite una implementación de código abierto de los protocolos de seguridad de la capa de transporte (TLS) y capa de sockets seguros (SSL). Proporciona funciones para generar claves privadas, administrar certificados y equipar aplicaciones cliente con cifrado y descifrado.
 
 
