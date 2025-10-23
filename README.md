@@ -18,15 +18,15 @@ OpenSSL se utiliza ampliamente en el campo de la ciberseguridad para una amplia 
 ### Configuración
 1. Instalar en la raíz C.(Evitar espacios en blanco)
 2. Bajar la Versión Exe.
-3. En algunos ejemlos deben asegurarse de establecer la ruta dónde instalarón el OpenSSL (Ubicación de OpenSSL en su PC)
+3. En algunos ejemlos deben asegurarse de establecer la ruta dónde instalarón el OpenSSL --> openssl.cnf (Ubicación de OpenSSL en su PC)
 Ejemplo:
 
     ```bash
    $configArgs = array(
     'config' => 'C:\OpenSSL-Win64\bin\cnf\openssl.cnf', //<-- esta ruta es necesaria si trabajas con XAMPP
     'private_key_bits' => 2048,
-    'private_key_type' => OPENSSL_KEYTYPE_RSA
-); 
+    'private_key_type' => OPENSSL_KEYTYPE_RSA ); 
+
 ```
 
 ### Ejecutar los siguienstes ejemplos
