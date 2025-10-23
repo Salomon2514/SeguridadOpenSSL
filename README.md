@@ -1,4 +1,5 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b961a626-33c6-4c25-94ed-13624cf0f2cf" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/67de72aa-e734-48cc-b065-920308e9eaea" />
+
 
 ## Seguridad con OpenSSL en PHP
 OpenSSL es una biblioteca criptográfica que permite una implementación de código abierto de los protocolos de seguridad de la capa de transporte (TLS) y capa de sockets seguros (SSL). Proporciona funciones para generar claves privadas, administrar certificados y equipar aplicaciones cliente con cifrado y descifrado.
