@@ -20,13 +20,14 @@ OpenSSL se utiliza ampliamente en el campo de la ciberseguridad para una amplia 
 2. Bajar la Versión Exe.
 3. En algunos ejemlos deben asegurarse de establecer la ruta dónde instalarón el OpenSSL (Ubicación de OpenSSL en su PC)
 Ejemplo:
+
     ```bash
    $configArgs = array(
     'config' => 'C:\OpenSSL-Win64\bin\cnf\openssl.cnf', //<-- esta ruta es necesaria si trabajas con XAMPP
     'private_key_bits' => 2048,
     'private_key_type' => OPENSSL_KEYTYPE_RSA
-); ```
-
+); 
+```
 
 ### Ejecutar los siguienstes ejemplos
 1. Encriptacion.php
