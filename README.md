@@ -16,6 +16,14 @@ OpenSSL se utiliza ampliamente en el campo de la ciberseguridad para una amplia 
 [https://www.youtube.com/watch?v=cBa87N_BZ4s&t=40s]
 [https://slproweb.com/products/Win32OpenSSL.html]
 
+### Configuración
+1. Instalar en la raíz C.(Evitar espacios en blanco)
+2. Bajar la Versión Exe.
 
+### Ejecutar los siguienstes ejemplos
+1. Encriptacion.php
+2. FirmaMensaje.php
+3. Firma7.php
+4. FirmaOtra.php
 
 
