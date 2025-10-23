@@ -26,8 +26,8 @@ Ejemplo:
     'config' => 'C:\OpenSSL-Win64\bin\cnf\openssl.cnf', //<-- esta ruta es necesaria si trabajas con XAMPP
     'private_key_bits' => 2048,
     'private_key_type' => OPENSSL_KEYTYPE_RSA ); 
-
 ```
+
 
 ### Ejecutar los siguienstes ejemplos
 1. Encriptacion.php
