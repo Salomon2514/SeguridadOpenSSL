@@ -11,8 +11,8 @@ OpenSSL se utiliza ampliamente en el campo de la ciberseguridad para una amplia 
 2.Seguridad del correo electrónico: OpenSSL se utiliza para proteger las comunicaciones de correo electrónico, permitiendo el uso de S/MIME (Secure/Multipurpose Internet Mail Extensions) y PGP (Pretty Good Privacy) para el cifrado de correo electrónico y firmas digitales.
 
 ### Referencias
-https://www.youtube.com/watch?v=cBa87N_BZ4s&t=40s
-https://slproweb.com/products/Win32OpenSSL.html
+[https://www.youtube.com/watch?v=cBa87N_BZ4s&t=40s]
+[https://slproweb.com/products/Win32OpenSSL.html]
 
 
 
