@@ -13,8 +13,7 @@ OpenSSL se utiliza ampliamente en el campo de la ciberseguridad para una amplia 
 2. Seguridad del correo electrónico: OpenSSL se utiliza para proteger las comunicaciones de correo electrónico, permitiendo el uso de S/MIME (Secure/Multipurpose Internet Mail Extensions) y PGP (Pretty Good Privacy) para el cifrado de correo electrónico y firmas digitales.
 
 ### Referencias
-[https://www.youtube.com/watch?v=cBa87N_BZ4s&t=40s]
-[https://slproweb.com/products/Win32OpenSSL.html]
+
 
 ### Configuración
 1. Instalar en la raíz C.(Evitar espacios en blanco)
@@ -25,5 +24,38 @@ OpenSSL se utiliza ampliamente en el campo de la ciberseguridad para una amplia 
 2. FirmaMensaje.php
 3. Firma7.php
 4. FirmaOtra.php
+
+**Editor de Código :** 
+- Visual Estudio Code
+
+## 🔢 Estadísticas
+
+ ![Creado](https://img.shields.io/badge/Creado-08--04--2025-blue)
+![Visitor Count](https://badgen.net/github/watchers/Salomon2514/SeguridadOpenSSL)
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Salomon2514.SeguridadOpenSSL)
+
+## 📚 Cómo usar este repositorio
+
+1. Descarga o clona el repositorio, ubica una carpeta en www -> para WampServer o htdocs  si es Xampp
+   ```bash
+   [git clone https://github.com/Salomon2514/SeguridadOpenSSL.git]
+2. Para correrlos edita el URL de su navegador:  http://127.1.1.1/Carpeta/ o  http://localhost/Carpeta/
+
+## 👨‍🏫 Autor
+
+**Irina Fong**  
+Docente de Programación  
+Universidad Tecnológica de Panamá  
+
+📧 **Email:** irina.fong@utp.ac.pa  
+📧 **Email:** irinafong@gmail.com<br>
+🌐 **GitHub:**(https://github.com/Salomon2514)  
+
+
+## 📖 Referencias
+
+- [https://www.youtube.com/watch?v=cBa87N_BZ4s&t=40s]
+- [https://slproweb.com/products/Win32OpenSSL.html]
+
 
 
