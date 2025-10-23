@@ -36,8 +36,8 @@ OpenSSL se utiliza ampliamente en el campo de la ciberseguridad para una amplia 
 ## 📚 Cómo usar este repositorio
 
 1. Descarga o clona el repositorio, ubica una carpeta en www -> para WampServer o htdocs  si es Xampp
-   ```bash
-   [git clone https://github.com/Salomon2514/SeguridadOpenSSL.git]
+  ```bash
+   [https://github.com/Salomon2514/SeguridadOpenSSL.git]```
 2. Para correrlos edita el URL de su navegador:  http://127.1.1.1/Carpeta/ o  http://localhost/Carpeta/
 
 ## 👨‍🏫 Autor
