@@ -21,7 +21,7 @@ OpenSSL se utiliza ampliamente en el campo de la ciberseguridad para una amplia 
 3. En algunos ejemlos deben asegurarse de establecer la ruta dónde instalarón el OpenSSL --> openssl.cnf (Ubicación de OpenSSL en su PC)
 Ejemplo:
 
-    ```bash
+```bash
    $configArgs = array(
     'config' => 'C:\OpenSSL-Win64\bin\cnf\openssl.cnf', //<-- esta ruta es necesaria si trabajas con XAMPP
     'private_key_bits' => 2048,
