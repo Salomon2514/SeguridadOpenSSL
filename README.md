@@ -10,6 +10,7 @@ OpenSSL es una biblioteca criptográfica que permite una implementación de có
 ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white) 
 ![WampServer](https://img.shields.io/badge/WampServer-FF0040?style=for-the-badge&logo=windows&logoColor=white)
 
+
 ### Los Algoritmos de Generación de clave más utlilizados y soportados son RSA, DSA y ECDSA
 Los algoritmos de generación de clave más utilizados y soportados son RSA, DSA y ECDSA.
 
