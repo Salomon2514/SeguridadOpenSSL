@@ -52,7 +52,7 @@ Ejemplo:
 ## 🔢 Estadísticas
 
  ![Creado](https://img.shields.io/badge/Creado-08--04--2025-blue)
-![Visitor Count](https://badgen.net/github/watchers/Salomon2514/SeguridadOpenSSL)
+![GitHub watchers](https://img.shields.io/github/watchers/Salomon2514/EjemplosJson.svg?style=social)
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Salomon2514.SeguridadOpenSSL)
 
 ## 📚 Cómo usar este repositorio
