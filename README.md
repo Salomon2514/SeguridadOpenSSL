@@ -30,7 +30,7 @@ Cifrado Asimétrico (RSA con Par de Llaves - Pública y Privada): OpenSSL es mae
 <br>
 
 
-## Otras Aplicaciones de OpenSSL en Ciberseguridad 🛠️ 
+## ⚙️ Otras Aplicaciones de OpenSSL en Ciberseguridad 
 OpenSSL se utiliza ampliamente en el campo de la ciberseguridad para una amplia gama de aplicaciones, entre las que se incluyen:
 
 1. Seguridad del servidor web: OpenSSL se utiliza comúnmente para habilitar HTTPS (HTTP sobre SSL/TLS) en servidores web, proporcionando cifrado y autenticación para una comunicación segura entre clientes y servidores.<br>
@@ -58,6 +58,7 @@ Ejemplo dónde se ubica l rut del openssl.cnf:
     'private_key_type' => OPENSSL_KEYTYPE_RSA ); 
 ```
 <br>
+
 ### 🔍 Verificar si la versión WampServer o XAMPP tienen habilitado openSSL
 
 ```bash
