@@ -12,21 +12,21 @@ OpenSSL es una biblioteca criptográfica que permite una implementación de có
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white) 
 ![WampServer](https://img.shields.io/badge/WampServer-FF0040?style=for-the-badge&logo=windows&logoColor=white)
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-top: 10px;">
-    
-    <!-- Badge de OWASP (Estilo tarjeta oscura/técnica) -->
-    <div style="background-color: #1a2332; color: #ffffff; padding: 8px 16px; border-radius: 4px; font-family: sans-serif; font-weight: bold; font-size: 14px; display: inline-flex; align-items: center; gap: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-        <span style="font-size: 16px;">🛡️</span> OWASP
-    </div>
 
-    <!-- Badge de OpenSSL (Estilo tarjeta verde/cifrado) -->
-    <div style="background-color: #1b5e20; color: #ffffff; padding: 8px 16px; border-radius: 4px; font-family: sans-serif; font-weight: bold; font-size: 14px; display: inline-flex; align-items: center; gap: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-        <span style="font-size: 16px;">🔐</span> OPENSSL
-    </div>
+<br>
+<div style="display: inline-flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 10px;">
+    
+    <!-- Badge de OWASP -->
+    <span style="background-color: #1a2332; color: #ffffff; padding: 6px 14px; border-radius: 4px; font-family: sans-serif; font-weight: bold; font-size: 13px; display: inline-flex; align-items: center; gap: 6px;">
+        🛡️ OWASP
+    </span>
+
+    <!-- Badge de OpenSSL -->
+    <span style="background-color: #1b5e20; color: #ffffff; padding: 6px 14px; border-radius: 4px; font-family: sans-serif; font-weight: bold; font-size: 13px; display: inline-flex; align-items: center; gap: 6px;">
+        🔐 OPENSSL
+    </span>
 
 </div>
-<br>
-
 
 ## 🛡️ ¿Cómo usar OpenSSL para BLINDAR los datos? (Confidencialidad)
 
