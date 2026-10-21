@@ -12,6 +12,8 @@ OpenSSL es una biblioteca criptográfica que permite una implementación de có
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white) 
 ![WampServer](https://img.shields.io/badge/WampServer-FF0040?style=for-the-badge&logo=windows&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-1EA362?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-771C2E?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 <br>
 
