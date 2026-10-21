@@ -12,7 +12,8 @@ OpenSSL es una biblioteca criptográfica que permite una implementación de có
 
 
 
-### ¿Cómo usar OpenSSL para BLINDAR los datos? (Confidencialidad)
+
+## 🛡️ ¿Cómo usar OpenSSL para BLINDAR los datos? (Confidencialidad)
 
 
 Se puede usar OpenSSL (y las herramientas criptográficas en general) perfectamente para cumplir con el principio de Protección de Datos de OWASP, logrando exactamente los dos objetivos: blindar la información y darnos cuenta si alguien la vulneró o alteró.
