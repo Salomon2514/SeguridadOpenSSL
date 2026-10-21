@@ -15,7 +15,6 @@ OpenSSL es una biblioteca criptográfica que permite una implementación de có
 <br>
 
 
-
 ## 🛡️ ¿Cómo usar OpenSSL para BLINDAR los datos? (Confidencialidad)
 
 
@@ -75,15 +74,14 @@ extension=openssl
 
 
 
-### Ejecutar los siguientes ejemplos
+### Ejecutar los siguientes ejemplos y recrearlos
 1. Encriptacion.php (Crear un formulario)
 2. FirmaMensaje.php (Crear un formulario)
 3. Firma7.php  (Crear un formulario)
 4. FirmaOtra.php  (Crear un formulario)
    <br>
 
-**Editor de Código :** 
-- Visual Estudio Code
+
 <br>
 
 ## 🔢 Estadísticas
