@@ -41,6 +41,7 @@ Ejemplo dónde se ubica l rut del openssl.cnf:
     'private_key_bits' => 2048,
     'private_key_type' => OPENSSL_KEYTYPE_RSA ); 
 ```
+<br><br>
 ### Verificar si la versión WampServer o XAMPP tienen habilitado openSSL
 
 ```bash
