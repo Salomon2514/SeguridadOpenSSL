@@ -30,7 +30,7 @@ Cifrado Asimétrico (RSA con Par de Llaves - Pública y Privada): OpenSSL es mae
 <br>
 
 
-## Otras Aplicaciones de OpenSSL en Ciberseguridad 
+## Otras Aplicaciones de OpenSSL en Ciberseguridad 🛠️ 
 OpenSSL se utiliza ampliamente en el campo de la ciberseguridad para una amplia gama de aplicaciones, entre las que se incluyen:
 
 1. Seguridad del servidor web: OpenSSL se utiliza comúnmente para habilitar HTTPS (HTTP sobre SSL/TLS) en servidores web, proporcionando cifrado y autenticación para una comunicación segura entre clientes y servidores.<br>
@@ -39,7 +39,8 @@ OpenSSL se utiliza ampliamente en el campo de la ciberseguridad para una amplia 
 
 
 
-## ¿Tienes que poner la ubicación del archivo de WampServer o puedes dejarlo sin eso?
+## 🛠️ Configuración
+ ¿Tienes que poner la ubicación del archivo de WampServer o puedes dejarlo sin eso?
 1. Si estás usando WampServer en lugar de XAMPP:
 A diferencia de XAMPP (que a veces no encuentra automáticamente el archivo de configuración y por eso obliga a declararlo manualmente con la ruta), WampServer suele tener OpenSSL y su archivo openssl.cnf ya configurados correctamente en las rutas por defecto de PHP.
 2. En la  versión de Xampp, verificar que tenga habilitada la extensión de extension=openssl
@@ -56,25 +57,25 @@ Ejemplo dónde se ubica l rut del openssl.cnf:
     'private_key_bits' => 2048,
     'private_key_type' => OPENSSL_KEYTYPE_RSA ); 
 ```
-<br><br>
-## Verificar si la versión WampServer o XAMPP tienen habilitado openSSL
+<br>
+### 🔍 Verificar si la versión WampServer o XAMPP tienen habilitado openSSL
 
 ```bash
 <?PHP 
-
 phpinfo();
-
 ?>
 ```
 <img width="1337" height="318" alt="image" src="https://github.com/user-attachments/assets/9c841a86-0abd-45df-b4d0-e613728604bc" />
 
 
 Verificar el archivo [PHP.ini], que no tenga el punto y coma que represent un comentario.
+
+```bash
 extension=openssl
+```
 
 
-
-### Ejecutar los siguientes ejemplos y recrearlos
+### 🚀 Ejecutar los siguientes ejemplos y recrearlos
 1. Encriptacion.php (Crear un formulario)
 2. FirmaMensaje.php (Crear un formulario)
 3. Firma7.php  (Crear un formulario)
