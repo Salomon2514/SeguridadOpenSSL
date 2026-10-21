@@ -12,6 +12,16 @@ OpenSSL es una biblioteca criptográfica que permite una implementación de có
 
 
 
+### Se puede usar OpenSSL (y las herramientas criptográficas en general) perfectamente para cumplir con el principio de Protección de Datos de OWASP, logrando exactamente los dos objetivos: blindar la información y darnos cuenta si alguien la vulneró o alteró.
+¿Cómo usar OpenSSL para BLINDAR los datos? (Confidencialidad)
+
+Cuando OWASP habla de proteger datos (especialmente en su categoría de fallos criptográficos o exposición de datos sensibles), la herramienta por excelencia es el cifrado. Con OpenSSL puedes hacer dos tipos de cifrado principales:
+
+Cifrado Simétrico (AES): Ideal para cuando quieres guardar información secreta en la base de datos o en archivos (por ejemplo, tarjetas de crédito, números de cédula, datos médicos). La misma clave secreta que cifra el dato es la que lo descifra.
+
+Cifrado Asimétrico (RSA con Par de Llaves - Pública y Privada): OpenSSL es maestro en esto. Usas una llave pública para cifrar un mensaje (que cualquiera puede enviar) y solo la otra persona con la llave privada puede abrirlo y leerlo. Esto protege los datos mientras viajan por redes inseguras.
+
+<br><br>
 ### Los Algoritmos de Generación de clave más utlilizados y soportados son RSA, DSA y ECDSA
 Los algoritmos de generación de clave más utilizados y soportados son RSA, DSA y ECDSA.
 
