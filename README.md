@@ -14,19 +14,8 @@ OpenSSL es una biblioteca criptográfica que permite una implementación de có
 ![WampServer](https://img.shields.io/badge/WampServer-FF0040?style=for-the-badge&logo=windows&logoColor=white)
 
 <br>
-<div style="display: inline-flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 10px;">
-    
-    <!-- Badge de OWASP -->
-    <span style="background-color: #1a2332; color: #ffffff; padding: 6px 14px; border-radius: 4px; font-family: sans-serif; font-weight: bold; font-size: 13px; display: inline-flex; align-items: center; gap: 6px;">
-        🛡️ OWASP
-    </span>
 
-    <!-- Badge de OpenSSL -->
-    <span style="background-color: #1b5e20; color: #ffffff; padding: 6px 14px; border-radius: 4px; font-family: sans-serif; font-weight: bold; font-size: 13px; display: inline-flex; align-items: center; gap: 6px;">
-        🔐 OPENSSL
-    </span>
 
-</div>
 
 ## 🛡️ ¿Cómo usar OpenSSL para BLINDAR los datos? (Confidencialidad)
 
