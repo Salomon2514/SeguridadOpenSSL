@@ -17,8 +17,6 @@ OpenSSL es una biblioteca criptográfica que permite una implementación de có
 
 <br>
 
-
-
 ## 🛡️ ¿Cómo usar OpenSSL para BLINDAR los datos? (Confidencialidad)
 
 
