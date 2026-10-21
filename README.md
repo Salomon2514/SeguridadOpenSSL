@@ -43,7 +43,19 @@ Ejemplo dónde se ubica l rut del openssl.cnf:
 ```
 ### Verificar si la versión WampServer o XAMPP tienen habilitado openSSL
 
+```bash
+<?PHP 
+
+phpinfo();
+
+?>
+```
 <img width="1337" height="318" alt="image" src="https://github.com/user-attachments/assets/9c841a86-0abd-45df-b4d0-e613728604bc" />
+
+
+Verificar el archivo [PHP.ini], que no tenga el punto y coma que represent un comentario.
+extension=openssl
+
 
 
 ### Ejecutar los siguienstes ejemplos
