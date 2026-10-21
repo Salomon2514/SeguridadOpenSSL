@@ -24,13 +24,16 @@ OpenSSL se utiliza ampliamente en el campo de la ciberseguridad para una amplia 
 
 
 
-### Configuración
-1. Instalar en la raíz C.(Evitar espacios en blanco)
+### ¿Tienes que poner la ubicación del archivo de WampServer o puedes dejarlo sin eso?
+1. Si estás usando WampServer en lugar de XAMPP:
+A diferencia de XAMPP (que a veces no encuentra automáticamente el archivo de configuración y por eso obliga a declararlo manualmente con la ruta), WampServer suele tener OpenSSL y su archivo openssl.cnf ya configurados correctamente en las rutas por defecto de PHP.
 2. En la  versión de Xampp, verificar que tenga habilitada la extensión de extension=openssl
    El php.ini deben abrirlo con WordPad o Bloc de Notas y buscar la línea ;extension=openssl --> si tiene ";" eliminarlo y bajar los servicios y luego levantarlos  
-3. Bajar la Versión Exe.
+3. Si necesitas poner la ruta en WampServer:
+Si por alguna razón te llega a dar error y necesitas indicárselo explícitamente, tienes que usar la ruta donde WampServer tiene su propio PHP/OpenSSL, no la de XAMPP ni la de C:\OpenSSL-Win64 (a menos que hayas instalado OpenSSL por separado).
+Por lo general, en WampServer la ruta apunta a la carpeta de bin de la versión de PHP que estés usando, por ejemplo algo así:'config' => 'C:\wamp64\bin\php\php8.x.x\extras\ssl\openssl.cnf' (o dentro de la carpeta donde esté instalado tu Wamp).
 4. En algunos ejemlos deben asegurarse de establecer la ruta dónde instalarón el OpenSSL --> openssl.cnf (Ubicación de OpenSSL en su PC)
-Ejemplo:
+Ejemplo dónde se ubica l rut del openssl.cnf:
 
 ```bash
    $configArgs = array(
