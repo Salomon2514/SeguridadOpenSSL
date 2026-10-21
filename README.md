@@ -28,11 +28,10 @@ Cifrado Simétrico (AES): Ideal para cuando quieres guardar información secreta
 
 Cifrado Asimétrico (RSA con Par de Llaves - Pública y Privada): OpenSSL es maestro en esto. Usas una llave pública para cifrar un mensaje (que cualquiera puede enviar) y solo la otra persona con la llave privada puede abrirlo y leerlo. Esto protege los datos mientras viajan por redes inseguras.
 
-<br><br>
-### Los Algoritmos de Generación de clave más utlilizados y soportados son RSA, DSA y ECDSA
-Los algoritmos de generación de clave más utilizados y soportados son RSA, DSA y ECDSA.
+<br>
 
-### Aplicaciones de OpenSSL en Ciberseguridad 
+
+## Otras Aplicaciones de OpenSSL en Ciberseguridad 
 OpenSSL se utiliza ampliamente en el campo de la ciberseguridad para una amplia gama de aplicaciones, entre las que se incluyen:
 
 1. Seguridad del servidor web: OpenSSL se utiliza comúnmente para habilitar HTTPS (HTTP sobre SSL/TLS) en servidores web, proporcionando cifrado y autenticación para una comunicación segura entre clientes y servidores.<br>
@@ -41,7 +40,7 @@ OpenSSL se utiliza ampliamente en el campo de la ciberseguridad para una amplia 
 
 
 
-### ¿Tienes que poner la ubicación del archivo de WampServer o puedes dejarlo sin eso?
+## ¿Tienes que poner la ubicación del archivo de WampServer o puedes dejarlo sin eso?
 1. Si estás usando WampServer en lugar de XAMPP:
 A diferencia de XAMPP (que a veces no encuentra automáticamente el archivo de configuración y por eso obliga a declararlo manualmente con la ruta), WampServer suele tener OpenSSL y su archivo openssl.cnf ya configurados correctamente en las rutas por defecto de PHP.
 2. En la  versión de Xampp, verificar que tenga habilitada la extensión de extension=openssl
@@ -59,7 +58,7 @@ Ejemplo dónde se ubica l rut del openssl.cnf:
     'private_key_type' => OPENSSL_KEYTYPE_RSA ); 
 ```
 <br><br>
-### Verificar si la versión WampServer o XAMPP tienen habilitado openSSL
+## Verificar si la versión WampServer o XAMPP tienen habilitado openSSL
 
 ```bash
 <?PHP 
