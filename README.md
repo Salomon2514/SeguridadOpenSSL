@@ -75,14 +75,16 @@ extension=openssl
 
 
 
-### Ejecutar los siguienstes ejemplos
-1. Encriptacion.php
-2. FirmaMensaje.php
-3. Firma7.php
-4. FirmaOtra.php
+### Ejecutar los siguientes ejemplos
+1. Encriptacion.php (Crear un formulario)
+2. FirmaMensaje.php (Crear un formulario)
+3. Firma7.php  (Crear un formulario)
+4. FirmaOtra.php  (Crear un formulario)
+   <br>
 
 **Editor de Código :** 
 - Visual Estudio Code
+<br>
 
 ## 🔢 Estadísticas
 
